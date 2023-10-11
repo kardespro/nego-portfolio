@@ -9,7 +9,7 @@ export default function AboutMe({ discord_data, activityData }) {
   return (
     <div className="mx-6 mt-28 flex flex-col">
       <div className="w-20 h-20 bg-light-secondary dark:bg-dark-secondary rounded-full relative">
-        <Image src='/homeAvatar.png' alt="Home Avatar" width={626} height={626} priority={true} />
+        <Image src='https://avatars.githubusercontent.com/u/61694826?v=4' alt="Home Avatar" width={626} height={626} priority={true} />
         <div className='absolute bottom-1.5 right-1.5'>
           <Tippy content={<>
             <div className='flex gap-x-2 items-center'>
