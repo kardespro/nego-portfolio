@@ -1,42 +1,16 @@
 [
   {
-    "name": "Discord SFX",
-    "description": "Discord SFX, Discord sunucunuzun ses panosu için ses efektleri indirebileceğiniz ve paylaşabileceğiniz bir web sitesidir.",
+    "name": "Pogget.app",
+    "description": "Yarım Tamamlanmış Poggit Klonu",
     "year": "2023",
-    "link": "https://discordsfx.com",
-    "image": "/images/websites/discordsfx-com.png"
+    "link": "https://pgyedek.vercel.app",
+    "image": "/images/websites/pogget.png"
   },
   {
-    "name": "psimed.com.tr",
-    "description": "Psikoloji, Psikiyatri ve Psikoterapi Merkezi olan Psimed'in React.js ile geliştirilen web sitesidir.",
+    "name": "Next-binfo",
+    "description": "Nextjs Website Lookup Aracı",
     "year": "2023",
-    "link": "https://psimed.com.tr",
-    "image": "/images/websites/psimed-com-tr.png"
-  },
-  {
-    "name": "kisilerarasiiliskilerterapisi.com",
-    "description": "Kişilerarası İlişkiler Psikoterapisi Derneği için React.js ile geliştirilen web sitesidir.",
-    "year": "2023",
-    "link": "https://kisilerarasiiliskilerterapisi.com",
-    "image": "/images/websites/kisilerarasiiliskilerterapisi-com.png"
-  },
-  {
-    "name": "secim.barisyasaman.com",
-    "description": "๏ Türkiye Cumhuriyeti Roleplay Discord sunucusuna özel seçim sonuçlarının canlı açıklanabilmesi için geliştirilen bir web sitesidir.",
-    "year": "2023",
-    "link": "https://secim.barisyasaman.com",
-    "image": "/images/websites/secim-barisyasaman-com.png"
-  },
-  {
-    "name": "Codexa",
-    "description": "Ücretsiz kod paylaşım sitesi, Discord yardım kanallarıyla destek sağlayan bir platformdu.",
-    "year": "2023"
-  },
-  {
-    "name": "distop.gg",
-    "description": "Discord sunucularını seste bulunan üye/toplam üye/aktif üye gibi istatistiklerle sıralayan ve sunucu sahiplerine sunucularını tanıtmaları için bir platform sağlayan bir web sitesiydi.",
-    "year": "2022",
-    "link": "https://distop.gg",
-    "image": "/images/websites/distop-gg.png"
+    "link": "https://next-binfo.vercel.app",
+    "image": "/images/websites/binfo.png"
   }
 ]
