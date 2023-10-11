@@ -10,7 +10,7 @@ export default function Header() {
   const pathname = usePathname();
   const links = [
     {
-      text: 'bencan.net',
+      text: 'nego.rocks',
       link: '/',
       icon: LuBox
     },
@@ -25,8 +25,8 @@ export default function Header() {
       icon: LuBookMarked
     },
     {
-      text: 'CV',
-      link: '/cv.pdf',
+      text: 'Instagram',
+      link: 'https://instagram.com/forever.nihad',
       icon: LuFileBadge
     }
   ];
@@ -61,7 +61,7 @@ export default function Header() {
       <div className="mt-16 flex mb-1.5">
         <Link href="/" className="my-3 text-base flex items-center gap-x-1 bg-light-tertiary dark:bg-dark-tertiary focus:opacity-50 px-3 mx-3 py-2 rounded-lg transition-all duration-300 ease-in-out font-medium text-light-tertiaryText dark:text-dark-tertiaryText hover:text-light-primaryText dark:text-dark-primaryText">
           <LuBox />
-          bencan.net
+          nego.rocks
         </Link>
 
         <div onClick={toggleMenuIsOpen} className="my-3 text-base flex items-center gap-x-1 bg-light-tertiary dark:bg-dark-tertiary px-3 py-2 rounded-lg transition-all duration-300 ease-in-out font-medium text-light-tertiaryText dark:text-dark-tertiaryText hover:text-light-primaryText dark:text-dark-primaryText">
