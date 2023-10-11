@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   images: {
-    domains: ['i.scdn.co', 'cdn.discordapp.com', 'bencan.net', 'i.imgur.com'],
+    domains: ['i.scdn.co', 'cdn.discordapp.com', 'bencan.net', 'i.imgur.com', 'avatars.githubusercontent.com', 'nego.rocks'],
   },
   compress: true,
   turboPack: {
