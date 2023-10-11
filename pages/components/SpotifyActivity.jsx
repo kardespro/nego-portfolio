@@ -24,7 +24,7 @@ export default function SpotifyActivity() {
     if (!socket) return;
 
     socket.onopen = () => {
-      socket.send(JSON.stringify({ op: 2, d: { subscribe_to_id: '957840712404193290' } }));
+      socket.send(JSON.stringify({ op: 2, d: { subscribe_to_id: '682607343707488388' } }));
     };
   
     socket.onmessage = event => {
