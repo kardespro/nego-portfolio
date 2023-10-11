@@ -40,7 +40,7 @@ export default function AboutMe({ discord_data, activityData }) {
         </h2>
 
         <p className='mt-4 text-lg text-light-secondaryText dark:text-dark-secondaryText font-normal'>
-          Gökhan, 17 yaşında, İstanbul. Kodlama, Discord.js ve React. Freelance. Sosyal değil. Açık lise öğrencisi, iyi bir yazılımcı olmak istiyor.
+          Nihad, 16 yaşında, Bakü. Kodlama, Discord.js ve React. Freelance. Sosyal değil.
         </p>
 
         <SpotifyActivity activityData={activityData} />
